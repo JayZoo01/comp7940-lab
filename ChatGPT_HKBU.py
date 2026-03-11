@@ -69,3 +69,4 @@ if __name__ == '__main__':
         response = chatGPT.submit(input())
 
         print(response)
+
