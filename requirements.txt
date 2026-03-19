@@ -1,4 +1,4 @@
-nyio==4.5.2
+anyio==4.5.2
 certifi==2026.1.4
 charset-normalizer==3.4.4
 configparser==7.1.0
